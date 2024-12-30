@@ -16,3 +16,6 @@
 [submodule "alarm-server"]
 	path = alarm-server
 	url = git@github.com:CapstonProduct/alarm-server.git
+[submodule "health-report-server"]
+	path = health-report-server
+	url = git@github.com:CapstonProduct/health-report-server.git
