@@ -7,3 +7,6 @@
 [submodule "fine-tuning-repo"]
 	path = fine-tuning-repo
 	url = git@github.com:CapstonProduct/fine-tuning-repo.git
+[submodule "database-repo"]
+	path = database-repo
+	url = git@github.com:CapstonProduct/database-repo.git
