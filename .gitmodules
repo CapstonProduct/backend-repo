@@ -4,3 +4,6 @@
 [submodule "voice-server"]
 	path = voice-server
 	url = git@github.com:CapstonProduct/voice-server.git
+[submodule "fine-tuning-repo"]
+	path = fine-tuning-repo
+	url = git@github.com:CapstonProduct/fine-tuning-repo.git
