@@ -10,3 +10,6 @@
 [submodule "database-repo"]
 	path = database-repo
 	url = git@github.com:CapstonProduct/database-repo.git
+[submodule "infra-repo"]
+	path = infra-repo
+	url = git@github.com:CapstonProduct/infra-repo.git
