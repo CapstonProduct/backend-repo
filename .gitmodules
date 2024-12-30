@@ -1,3 +1,6 @@
 [submodule "auth-server"]
 	path = auth-server
 	url = git@github.com:CapstonProduct/auth-server.git
+[submodule "voice-server"]
+	path = voice-server
+	url = git@github.com:CapstonProduct/voice-server.git
