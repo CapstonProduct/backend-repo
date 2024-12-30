@@ -13,3 +13,6 @@
 [submodule "infra-repo"]
 	path = infra-repo
 	url = git@github.com:CapstonProduct/infra-repo.git
+[submodule "alarm-server"]
+	path = alarm-server
+	url = git@github.com:CapstonProduct/alarm-server.git
